@@ -38,4 +38,4 @@ Once you have Alcatraz installed, installing the theme is done in Xcode's menu `
 Screenshots
 ----
 
-![Sample](https://raw.github.com/reejosamuel/RSBlackboard/master/Screenshot1.png)
+![Sample](https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/screenshot1.png)
