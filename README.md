@@ -1,7 +1,7 @@
 RSBlackboard
 ===========
 
-This is a dark theme for XCode.
+This is a dark theme for Xcode.
 
 What was i thinking when selecting the colors?
 1.  Focus on content
