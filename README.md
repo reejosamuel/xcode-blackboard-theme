@@ -1,41 +1,23 @@
-RSBlackboard
-===========
+Blackboard is a popular theme many other platforms.
 
-This is a dark theme for XCode.
+This is fork for xcode with some changes for contrast.
 
-What was i thinking when selecting the colors?
-1.  Focus on content
-2.  Easy on eyes
-3.  Distinguish code easily
-4.  Show comments yet keep them subtle 
-5.  Keep debug section white and avoid zebras
-
-Fonts are the same from Apple defaults.
+Include colors for editor and console.
 
 
 Installation
 ------------
 
-###### The preferred installation method is using [Alcatraz](https://github.com/supermarin/Alcatraz).
------------
-##### Manual Installation
+Xcode color schemes are stored in `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` folder.
 
-Custom Color Schemes for Xcode are stored in the `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` folder.
-
-    git clone https://github.com/gtranchedone/XcodeThemes.git
-    cd XcodeThemes/
+    git clone https://github.com/reejosamuel/xcode-blackboard-theme.git
+    cd xcode-blackboard-theme
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-    cd ..
-    rm -rf XcodeThemes/
-
-##### Installation using Alcatraz
-
-All themes in this repository is or will soon be available on [Alcatraz](https://github.com/supermarin/Alcatraz).
-Once you have Alcatraz installed, installing the theme is done in Xcode's menu `Window -> Package Manager` simply by clicking on the Color Scheme you want to add to Xcode. You may need to restart Xcode to see the new themes.
+    # restart Xcode, Goto preference and change to RSBlackboard
 
 
 Screenshots
 ----
 
-![Sample](https://raw.githubusercontent.com/reejosamuel/RSBlackboard/master/screenshot1.png)
+![Sample](https://raw.githubusercontent.com/reejosamuel/xcode-blackboard-theme/master/screenshot1.png)
